@@ -1,2 +1,2 @@
-# kernmodule2_herher
+# Kernmodule 2
 Herkansing van een herkansing voor Kernmodule 2 
